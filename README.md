@@ -1,6 +1,7 @@
 # Привет, я Никита! 👋
 
-![Профиль]([ссылка на фото](https://sun6-21.userapi.com/impg/onXCt9iHxUhEs-iXh8MGxJt44nPrS6HyayzEKw/CIOAUoVyT3E.jpg?size=1620x2160&quality=96&sign=03d7527b12349bd1a4ea7f34f83c2f75&type=album))
+
+![CIOAUoVyT3E](https://github.com/GachiJ/GachiJ/assets/90205946/aa3f48ca-3746-41bd-babf-477bcebd0260)
 
 ## Контакты и Социальные сети
 - 📧 Email: ваш.email@example.com
